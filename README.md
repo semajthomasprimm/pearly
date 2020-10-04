@@ -2,14 +2,15 @@
 
 
 ## Develop your projects faster with Pearly!
-### My goal is to develop around 3-5 self-crafted components for every component. These are components that would normally take place on a product landing page. 
+### My goal is to develop around 3-5 self-crafted, responsive components for every category. These are components that would normally take place on a product landing page. 
 
 <br />
 
 > NOTE: This library is a work in progress. <br />
 
 <br />
-![Image alt text](/ctas.png)<br />
+
+![Image alt text](/ctas.png "Preview of Pearly library")
 ----
 
 <br />
