@@ -9,7 +9,8 @@
 > NOTE: This library is a work in progress. <br />
 
 <br />
-![Image alt text](/ctas.png)<br />
+
+![Image alt text](/ctas.png "Preview of Pearly library")
 ----
 
 <br />
