@@ -1,12 +1,12 @@
 import React from 'react';
-import SimplePlans from './components/SimplePlans';
 
 
 const PricingIndex = () =>{
 
     return(
         <div className="mx-16">
-            <SimplePlans />
+            <h2 className="text-center text-purple-600 text-2xl p-8">Pricing</h2>
+            <h3 className="text-center text-purple-500 text-xl">Coming Soon</h3>
         </div>
     );
 }

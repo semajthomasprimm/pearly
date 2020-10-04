@@ -9,7 +9,7 @@ const SimplePlans = () =>{
                 <h1 className="text-2xl">Free</h1>
                 <p>Feature 1</p>
                 <p>Feature 1</p>
-                <a href="#">Get started&rarr;</a>
+                <a href="/">Get started&rarr;</a>
             </div>
             <div className="rounded-lg bg-blue-800 m-12 p-16">
                 <h1>Basic</h1>
